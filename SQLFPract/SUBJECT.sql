@@ -2,5 +2,6 @@
 (
 	[Cod] INT NOT NULL PRIMARY KEY, 
     [Name] NVARCHAR(50) NOT NULL, 
-    [Duration] NCHAR(10) NOT NULL
+    [Duration] NVARCHAR(50) NOT NULL, 
+    [Init_Date] NVARCHAR(50) NOT NULL
 )
