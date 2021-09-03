@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[SUBJECT]
+(
+	[Cod] INT NOT NULL PRIMARY KEY, 
+    [Name] NVARCHAR(50) NOT NULL, 
+    [Duration] NCHAR(10) NOT NULL
+)
