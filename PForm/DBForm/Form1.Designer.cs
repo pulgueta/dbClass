@@ -38,9 +38,10 @@ namespace DBForm
             // 
             this.dbLoadBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.dbLoadBtn.FlatAppearance.BorderSize = 10;
+            this.dbLoadBtn.Font = new System.Drawing.Font("Ubuntu Light", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dbLoadBtn.Location = new System.Drawing.Point(40, 50);
             this.dbLoadBtn.Name = "dbLoadBtn";
-            this.dbLoadBtn.Size = new System.Drawing.Size(108, 33);
+            this.dbLoadBtn.Size = new System.Drawing.Size(125, 30);
             this.dbLoadBtn.TabIndex = 0;
             this.dbLoadBtn.Text = "Don\'t click me";
             this.dbLoadBtn.UseVisualStyleBackColor = true;
