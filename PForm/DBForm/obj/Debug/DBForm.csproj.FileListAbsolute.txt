@@ -1,0 +1,10 @@
+E:\Documentos\dbClass\PForm\DBForm\bin\Debug\DBForm.exe.config
+E:\Documentos\dbClass\PForm\DBForm\bin\Debug\DBForm.exe
+E:\Documentos\dbClass\PForm\DBForm\bin\Debug\DBForm.pdb
+E:\Documentos\dbClass\PForm\DBForm\obj\Debug\DBForm.csproj.AssemblyReference.cache
+E:\Documentos\dbClass\PForm\DBForm\obj\Debug\DBForm.Form1.resources
+E:\Documentos\dbClass\PForm\DBForm\obj\Debug\DBForm.Properties.Resources.resources
+E:\Documentos\dbClass\PForm\DBForm\obj\Debug\DBForm.csproj.GenerateResource.cache
+E:\Documentos\dbClass\PForm\DBForm\obj\Debug\DBForm.csproj.CoreCompileInputs.cache
+E:\Documentos\dbClass\PForm\DBForm\obj\Debug\DBForm.exe
+E:\Documentos\dbClass\PForm\DBForm\obj\Debug\DBForm.pdb

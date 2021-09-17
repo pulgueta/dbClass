@@ -1,0 +1,21 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Crear
+       [dbo].[ALUMNI] (Tabla)
+       [dbo].[DIRECTIVE] (Tabla)
+       [dbo].[JOINED] (Tabla)
+       [dbo].[SUBJECT] (Tabla)
+       [dbo].[FK_DIRECTIVE_ALUMNI] (Clave externa)
+       [dbo].[FK_JOINED_ALUMNI] (Clave externa)
+       [dbo].[FK_JOINED_SUBJECT] (Clave externa)
+
+** Acciones de compatibilidad

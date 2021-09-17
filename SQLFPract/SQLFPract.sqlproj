@@ -57,4 +57,16 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="ALUMNI.sql" />
+    <Build Include="DIRECTIVE.sql" />
+    <Build Include="SUBJECT.sql" />
+    <Build Include="JOINED.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="SQLFPract.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SQLFPract.publish.xml" />
+  </ItemGroup>
 </Project>

@@ -1,0 +1,10 @@
+E:\Documentos\dbClass\SQLFPract\bin\Debug\SQLFPract.dacpac
+E:\Documentos\dbClass\SQLFPract\bin\Debug\SQLFPract.dll
+E:\Documentos\dbClass\SQLFPract\bin\Debug\SQLFPract.pdb
+E:\Documentos\dbClass\SQLFPract\obj\Debug\SQLFPract.sqlproj.AssemblyReference.cache
+E:\Documentos\dbClass\SQLFPract\obj\Debug\SQLFPract.dll
+E:\Documentos\dbClass\SQLFPract\obj\Debug\SQLFPract.pdb
+E:\Documentos\dbClass\SQLFPract\obj\Debug\Model.xml
+E:\Documentos\dbClass\SQLFPract\obj\Debug\refactor.xml
+E:\Documentos\dbClass\SQLFPract\obj\Debug\postdeploy.sql
+E:\Documentos\dbClass\SQLFPract\obj\Debug\predeploy.sql
